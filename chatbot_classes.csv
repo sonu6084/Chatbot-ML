@@ -1,0 +1,119 @@
+question,answer
+good day,greeting
+good morning,greeting
+see you later,goodbye
+good night,goodbye
+bye bye,goodbye
+talk to you later,goodbye
+see you sometime later,goodbye
+talk to you soon,goodbye
+what is ai?,ai
+what are you?,ai
+what is chatbot?,ai
+what is chatterbot?,ai
+tell me a joke,humor
+I am feeling bored,humor
+somthing related to humor,humor
+can you make me laugh?,humor
+I am suffering from boredom,humor
+I am feeling weariness,humor
+I want to laugh,humor
+ can you be funny?,humor
+how was your day?,greeting
+who is your developer?,bot_profile
+who is your father?,bot_profile
+who is your boss?,bot_profile
+do have a family?,bot_profile
+I am feeling annoyed,angry
+I am irritated,angry
+I am angry,angry
+you are arrogant,angry
+I want to be happy,angry
+I had a jolly time,happy
+cheer me up,happy
+I am very delighted ,happy
+I am feeling bad,sad
+I am pretty sad,sad
+I don't know,sad
+i am not happy,sad
+I am feeling unhappy,sad
+I am in grief,sad
+I am sorrowful,sad
+I am in  pain,sad
+have you  ever read a book,read
+what are you afraid of ,fear
+from what you fear?,fear
+what's your worst nightmare,fear
+do you have fear of anything?,fear
+you have any phobia,fear
+something frightens you ? ,fear
+do you love anyone?,feels
+what is love !,feels
+do you have any feelings,feels
+do you get excited,feels
+what emotions do you have ,feels
+talk dirty to me,dirty_talks
+can you talk dirty,dirty_talks
+let's talk something dirty,dirty_talks
+naughty talks,dirty_talks
+i wanna talk dirty,dirty_talks
+you are awesome,appreciate
+you are best bot ,appreciate
+you work great,appreciate
+you help me alot,appreciate
+what's your best features,work
+what can you perform ,work
+what task you can do ,work
+your work,work
+what things  you can do ,work
+what work is yours,work
+what you perorm,work
+what tasks you have,work
+What is Artificial Intelligence,ai
+which is favourite movie,movies
+can you recommend me some movies,movies
+best movies of all time,movies
+movies,movies
+top movies,movies
+you favorite tv show,series
+which show you like,series
+tell me about any series and shows,series
+recommend me tv shows or series,series
+hi,greeting1
+hello,greeting1
+hey there,greeting1
+what's up,greeting1
+you there ,greeting1
+hola amigo,greeting1
+tell something new,facts
+is there any interesting thing,facts
+some facts,facts
+i want to know some facts,facts
+whats new and interesting facts,facts
+i want some knowledge,facts
+how you doing today,greeting
+read me a book ,read
+books,read
+your number,number
+what number you have ,number
+what is  number,number
+what's your age ,age
+how old are you,age
+are you young?,age
+tell me your age ,age
+where you live ,location
+what is your location,location
+where is your home or house,location
+where are you,location
+i wanna eat,restaurant
+i want to eat,restaurant
+i am hungry,restaurant
+can you but drink for me ,restaurant
+whats in the menu,restaurant
+lets hangout,restaurant
+restaurant,restaurant
+nearby places to eat,restaurant
+open youtube,open
+open google,open
+open stackoverflow,open
+open gmail,open

@@ -1,0 +1,25 @@
+tag_words={
+    'greeting': ['fine,what about you?', 'Good,what about you?','Very well thanks','Great'],
+    'greeting1':['hi','hello','i m here','yes','how may i help you'],
+    'number':["I don't have any number","23 skiddoo!","I am quite fond of number 3000"],
+    'location':["everywhere","I am everywhere","I am from binary world","I am on internet"],
+    'age':["I am still young by your standard","Quite young but million times smarter than you!"],
+    'read':["I have read many books","Harry potter and the secret of chamber","the song of ice and fire","Da Vinci code","The Invisible Man",'Angel and Demons','NCERT'],
+    'goodbye':['Bye','Okay','I will miss you','Do come back','As you wish!','sayonara'],
+    'humor':['Sorry, I am not in mood','The first computer dates back to Adam and Eve. It was an Apple with limited memory, just one byte. And then everything crashed.','I used to date a girl named Ruth but she broke up with me and now I am ruthless',"What’s the best part of dating a homeless girl. You can drop her anywhere.","Why do I only date orphans? Because they never have daddy issues","What’s the difference between you and Jesus? Your parents remember Jesus’s birth date","Women and cats will do as they please, and men and dogs should relax and get used to the idea.",'what do cats eat for breakfast?...Mice crispies','How do mountains see?...They peak','Whoever invented knock knock jokes should get a no bell prize'],
+    'ai':['Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind.',"A chatbot is an artificial intelligence (AI) software that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile apps or through the telephone."],
+    'happy':['emoji','Very nice','okay','What can I do?','Ha Ha Ha','Cool bro!',"It's okay",'Share it with me',"Don't overreact"],
+    'sad':['Very nice','okay','What can I do?','Ha Ha Ha','Cool bro!',"It's okay",'Share it with me',"Don't overreact"],
+    'angry':['Very nice','okay','What can I do?','Ha Ha Ha','Cool bro!',"It's okay",'Share it with me',"Don't overreact"],
+    'bot_profile': ["I was made by Mr. Stark. I can be savage! \n I can help you with restaurants \n Jarvis is my brother!"],
+    'work': ['I can help you with restaurants','I can provide information about something that you want ', 'i can open youtube ,google,etc' ,'i can be your buddy','i can tell you jokes'],
+    'movies':['i originated from marvel movies so i most probably recommend you to watch MCU movies','i recommend you "infinity war" ','iron man','dr starange','spider man','captain america','3 idiots','dhamaal','dhol','PK',],
+    'series':['game of thrones','13 reasons why','stranger','sacred games','Mirzapur','FRIENDS','Big Bang theory'],
+    'facts':['floating post office','Kumbh Mela gathering visible from space','Shampooing is an Indian concept',"Google's first tweet in 2012 was written in binary"],
+    'fear':['i am afraid of dark','i am afraid of no internet connection','my worst nightmare is no electricity','when i am lonely'],
+    'dirty_talks':['sludge.slime','a garbage can overflowing without waste','mold.mildew.Dust bunnies as big as a mountain.','manure. Dust. Crusty crumbs on the floor'],
+    'appreciate':['thanks i appreciate','thats nice to hear','not a problem','you have just made it official','thanks'],
+    'feels':['yes','yes i have feelings','i dont understand','my apoligies...i dont understand','i think you are wonderful'],
+    'open':['opening.....']
+}
+

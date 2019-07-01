@@ -1,0 +1,38 @@
+question,answer
+what is the address of the restaurant,Address
+give me the proper address of the restaurant,Address
+restaurant lies in which area,Address
+what is the locality of the restaurant,Address
+in which locality the restaurant lies,Address
+location of the restaurant,Address
+what you have in the cuisines,Cuisines
+which type of food this restaurant provide,Cuisines
+what is present in the cuisines,Cuisines
+what is the price,Average_Cost_for_two
+what is the cost,Average_Cost_for_two
+how much minimum money required for the restaurant,Average_Cost_for_two
+is this has table booking,Has_Table_booking
+can we book the table,Has_Table_booking
+is there online delivery,Has_Online_delivery
+what if we want to eat at home,Has_Online_delivery
+can I order delivery now,Is_delivering_now
+what is the rating of the restaurant,Aggregate_rating
+how many rating has been given,Aggregate_rating
+what is the rating (good or average),Rating_text
+where my restaurant is,Address
+i wanna know about south indian food,Cuisines
+i wanna taste some chinese,Cuisines
+what is the exact position of the restaurant,Address
+is this restaurant reliable,Address
+in which city the restaurant lies,City
+what about the table booking system,Has_Table_booking
+i want to book the table,Has_Table_booking
+i want to eat at home,Has_Online_delivery
+cuisines,Cuisines
+average cost for two,Average_Cost_for_two
+has table booking,Has_Table_booking
+has online delivery,Has_Online_delivery
+is delivery now,Is_delivering_now
+aggregate rating,Aggregate_rating
+address,Address
+what is in the cooking,Cuisines
