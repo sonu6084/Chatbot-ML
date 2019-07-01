@@ -1,0 +1,13 @@
+python libraries:-
+scikit learn
+numpy
+pyttsx3
+pandas
+matplotlib
+seaborn
+nltk
+wikipedia 
+webrowser
+sqlite3
+tkinter
+if anyother error for module occurs install that library using pip commad
